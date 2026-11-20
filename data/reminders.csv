@@ -1,0 +1,9 @@
+reminder_id,contact_id,reminder_type,subject,template_name,due_date,scheduled_time,amount_due,invoice_no,event_name,meeting_link,priority,status
+REM-201,C102,payment_reminder,Friendly Reminder: Invoice INV-2026-881 is Due Soon,payment_reminder,2026-11-25,10:00,₹45000,INV-2026-881,Q4 Cloud Architecture Audit,https://portal.finscale.io/invoices/881,High,Pending
+REM-202,C105,payment_reminder,Urgent: Final Notice for Pending Invoice INV-2026-720,payment_reminder,2026-11-22,11:30,₹120000,INV-2026-720,Enterprise SaaS License Renewal,https://portal.zenithcorp.org/pay/720,Critical,Pending
+REM-203,C101,webinar_invite,Exclusive Invitation: Scaling Microservices with Python & Kubernetes,webinar_invite,2026-11-28,17:00,0,,Cloud Engineering Summit 2026,https://meet.google.com/xyz-tech-summit,Medium,Pending
+REM-204,C106,webinar_invite,Confirmed Spot: Generative AI Pipelines in Enterprise Production,webinar_invite,2026-11-30,16:00,0,,GenAI Practitioners Roundtable,https://zoom.us/j/98765432101,Medium,Pending
+REM-205,C108,interview_schedule,Interview Confirmation: Senior Full-Stack Python Engineer Role,interview_schedule,2026-11-24,14:00,0,,Technical System Design Round,https://meet.google.com/abc-hire-arch,High,Pending
+REM-206,C104,interview_schedule,Candidate Alignment: Lead Data Architect Debrief,interview_schedule,2026-11-23,15:30,0,,HR & Culture Fit Evaluation,https://teams.microsoft.com/l/meetup-join/debrief,High,Pending
+REM-207,C103,project_deadline,Milestone Alert: Sprint 44 Deliverables & Code Freeze Today,project_deadline,2026-11-21,18:00,0,,Sprint 44 Production Release,https://jira.cloudnexus.net/browse/SPRINT-44,Critical,Pending
+REM-208,C107,feedback_request,Your Thoughts Matter: Post-Deployment Operations Review,feedback_request,2026-11-26,12:00,0,,Quarterly Operational Health Audit,https://forms.hypergrowth.in/ops-review,Low,Pending

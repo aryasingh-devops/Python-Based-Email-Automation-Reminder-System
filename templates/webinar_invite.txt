@@ -1,0 +1,18 @@
+Subject: Confirmed Spot: {{ event_name }}
+
+Hi {{ name }},
+
+You have successfully registered for our upcoming technical session!
+
+Session: {{ event_name }}
+Date: {{ due_date }}
+Time: {{ scheduled_time }} IST
+Attendee: {{ name }} ({{ role }} at {{ company }})
+
+Join URL:
+{{ meeting_link }}
+
+We look forward to an engaging session with you.
+
+Best regards,
+Community & Developer Relations Team

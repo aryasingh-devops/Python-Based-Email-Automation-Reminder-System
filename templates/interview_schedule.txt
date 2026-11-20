@@ -1,0 +1,24 @@
+Subject: Interview Confirmation: {{ event_name }}
+
+Dear {{ name }},
+
+We are pleased to confirm your upcoming technical evaluation round:
+
+Candidate Name: {{ name }}
+Current Org: {{ company }}
+Target Role: {{ role }}
+Round: {{ event_name }}
+Date: {{ due_date }}
+Time: {{ scheduled_time }} IST
+
+Virtual Meeting Link:
+{{ meeting_link }}
+
+Preparation Tips:
+- Ensure steady internet and a functional microphone/camera.
+- Keep your IDE and GitHub projects open for review.
+
+Wishing you the very best!
+
+Regards,
+Talent Acquisition & Recruiting Team

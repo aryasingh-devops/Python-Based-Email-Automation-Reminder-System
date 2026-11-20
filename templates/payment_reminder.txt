@@ -1,0 +1,20 @@
+Subject: Friendly Reminder: Invoice {{ invoice_no }} is Due Soon
+
+Dear {{ name }},
+
+This is an automated notification from the Finance Department regarding your upcoming invoice settlement for {{ company }}.
+
+Invoice Reference: {{ invoice_no }}
+Service: {{ event_name }}
+Due Date: {{ due_date }}
+Amount Due: {{ amount_due }}
+Priority: {{ priority }}
+
+Please review and settle your invoice at:
+{{ meeting_link }}
+
+If you have already processed this transaction within the last 24 hours, please disregard this message.
+
+Best regards,
+Finance & Accounts Receivable Team
+Enterprise Operations Group

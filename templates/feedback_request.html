@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Feedback Request</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #f8fafc; margin: 0; padding: 20px; color: #1e293b; }
+        .container { max-width: 600px; margin: 0 auto; background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0; overflow: hidden; }
+        .header { background: linear-gradient(135deg, #0284c7 0%, #38bdf8 100%); color: #ffffff; padding: 28px; text-align: center; }
+        .content { padding: 28px; }
+        .btn-wrapper { text-align: center; margin: 26px 0; }
+        .btn { display: inline-block; background-color: #0284c7; color: #ffffff !important; text-decoration: none; padding: 12px 28px; border-radius: 6px; font-weight: 600; }
+        .footer { background: #f1f5f9; padding: 16px; text-align: center; font-size: 12px; color: #94a3b8; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Your Feedback Helps Us Grow</h2>
+        </div>
+        <div class="content">
+            <p>Dear <strong>{{ name }}</strong>,</p>
+            <p>Thank you for partnering with us at <strong>{{ company }}</strong>. We recently concluded <em>{{ event_name }}</em> and would love to hear your insights.</p>
+            <p>This 2-minute pulse survey ensures we consistently maintain exceptional delivery standards.</p>
+            <div class="btn-wrapper">
+                <a href="{{ meeting_link }}" class="btn" target="_blank">Share Your Feedback &rarr;</a>
+            </div>
+            <p>Due Date: {{ due_date }}</p>
+        </div>
+        <div class="footer">
+            <p>&copy; 2026 Customer Experience & Operations Team.</p>
+        </div>
+    </div>
+</body>
+</html>

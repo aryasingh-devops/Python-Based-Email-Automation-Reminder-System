@@ -1,0 +1,9 @@
+contact_id,name,email,company,role,phone,status,timezone
+C101,Aarav Sharma,aarav.sharma@innovatetech.com,InnovateTech Labs,Senior DevOps Engineer,+91-9876543210,Active,Asia/Kolkata
+C102,Priya Patel,priya.patel@finscale.io,FinScale Solutions,Finance Controller,+91-9823456781,Active,Asia/Kolkata
+C103,Rohan Verma,rohan.verma@cloudnexus.net,CloudNexus Systems,Product Manager,+91-9812345672,Active,Asia/Kolkata
+C104,Sneha Kulkarni,sneha.kulkarni@talentbridge.co,TalentBridge HR,HR Business Partner,+91-9890123456,Active,Asia/Kolkata
+C105,Vikram Malhotra,vikram.malhotra@zenithcorp.org,Zenith Global Corp,Chief Procurement Officer,+91-9845671234,Active,Asia/Kolkata
+C106,Ananya Roy,ananya.roy@datasphere.ai,DataSphere AI,Lead Data Scientist,+91-9834567890,Active,Asia/Kolkata
+C107,Devendra Nair,devendra.nair@hypergrowth.in,HyperGrowth Media,Operations Director,+91-9867123450,Active,Asia/Kolkata
+C108,Meera Joshi,meera.joshi@acmesoft.com,AcmeSoft Technologies,Frontend Architect,+91-9871234509,Active,Asia/Kolkata

@@ -1,0 +1,15 @@
+Subject: Milestone Alert: {{ event_name }}
+
+Hi {{ name }},
+
+This is an automated operational alert for your milestone:
+
+Milestone: {{ event_name }}
+Target Deadline: {{ due_date }} ({{ scheduled_time }})
+Priority: {{ priority }}
+
+Please review and update progress:
+{{ meeting_link }}
+
+Best regards,
+PMO & Agile Operations Team

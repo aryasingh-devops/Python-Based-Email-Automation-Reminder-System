@@ -1,0 +1,15 @@
+Subject: Your Thoughts Matter: {{ event_name }}
+
+Dear {{ name }},
+
+Thank you for being a valued partner with us at {{ company }}.
+
+Could you please take 2 minutes to provide feedback regarding {{ event_name }}?
+
+Survey Link:
+{{ meeting_link }}
+
+Feedback Due Date: {{ due_date }}
+
+Warm regards,
+Customer Experience & Quality Team

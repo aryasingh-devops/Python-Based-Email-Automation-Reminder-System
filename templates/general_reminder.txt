@@ -1,0 +1,9 @@
+Subject: {{ subject }}
+
+Hello {{ name }},
+
+This is an automated reminder regarding {{ event_name }} scheduled for {{ due_date }} ({{ scheduled_time }}).
+
+Reference Link: {{ meeting_link }}
+
+Thank you!

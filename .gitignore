@@ -1,0 +1,37 @@
+# Environment Variables & Secrets
+.env
+.env.local
+*.env
+
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# OS-Specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output reports & logs (Keep directory structures with .gitkeep if desired)
+logs/*.log
+!logs/.gitkeep
+outputs/*.csv
+outputs/*.json
+!outputs/.gitkeep
